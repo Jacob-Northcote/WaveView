@@ -1,4 +1,6 @@
 # 🏄‍♂️ WaveView - Professional Surf Analysis & Wave Visualization
+<img width="1051" height="1090" alt="image" src="https://github.com/user-attachments/assets/a8689103-24dd-4ef3-bc9f-8c414e16bb33" />
+
 
 A full-stack Python application that provides real-time surf analysis using AI, featuring wave visualization and surf spot rankings.
 
